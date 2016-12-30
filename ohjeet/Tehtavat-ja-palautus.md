@@ -1,6 +1,6 @@
 ﻿#Tehtävät ja palautus
 
-Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Joululabra2016).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin GitHub-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
+Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2017-3).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin GitHub-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
 [Git-ohje](Git-ohje.md)
 
