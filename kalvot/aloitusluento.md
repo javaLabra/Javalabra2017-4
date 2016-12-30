@@ -1,12 +1,13 @@
 % Aineopintojen harjoitustyö: Ohjelmointi (Javalabra)
-% Saska Dönges, Antti Karvonen
-% 19.12.2016
+% Saska Dönges, Valtteri Lakaniemi, Heikki Ahonen
+% 17.1.2017
 
 # Ohjaajat
 
 - Ohjaajat
     - Saska Dönges -- **saskeli** -- etunimi@cs.helsinki.fi
-    - Antti Karvonen -- **dvl** -- etunimi.sukunimi@gmail.com 
+    - Valtteri Lakaniemi -- **TheDuck** -- etunimi.sukunimi@helsinki.fi
+    - Heikki Ahonen -- **HeikkiHei** -- etunimi.sukunimi@helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#javalabra** @ IRCnet
@@ -118,7 +119,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon keskiviikkona (YLIHUOMENNA) klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Joululabra-2016
+- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2017-3
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
