@@ -14,7 +14,7 @@
 
 **Ohjaajat:**
 * Saska Dönges (saskeli) etunimi@cs.helsinki.fi
-* Valtteri Lakaniemi (TheDuck) etunimi.sukunimi@helsinki.fi
+* Valtteri Lakaniemi (TheDuck) vlakanie@cs.helsinki.fi
 * Heikki Ahonen (HeikkiHei) etunimi.sukunimi@cs.helsinki.fi
 
 **Kurssin IRC-kanava**:
