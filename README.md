@@ -38,6 +38,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **6** <br> 6.2.-<br>12.2.  | - | - | - | **Paja** B221<br>16-19 | **DL 4** klo 23:59 | - | - |
 | **7** <br> 13.2.-<br>19.2.  | - | - | - | **Paja** B221<br>16-19 | **DL 5** klo 23:59 | - | - |
 | **8** <br> 20.2.-<br>26.2.  | - | - | - | **Paja** B221<br>16-19 | **DL 6** klo 23:59 | - | - |
+| **9** <br> 27.2.-<br>5.3.  | - | - | - | **Paja** B221<br>16-19 | **Loppupalautus** klo 23:59 | - | - |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
