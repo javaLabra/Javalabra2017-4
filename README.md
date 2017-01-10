@@ -24,6 +24,8 @@
 
 ## Uutisia
 
+**10.1.2017** Kurssisivua päivitetty, nyt pitäisi deadlinejen aikataulut olla oikein.
+
 # Aikataulu
 
 Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää aikataulusta kiinni! Kolme myöhästynyttä palautusta tulkitaan kurssin keskeytykseksi.
