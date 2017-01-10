@@ -23,7 +23,7 @@
   * Tietoturva
   * Tehokkuus
   
-* Huomaathan myös, että aiheet, joissa pääpaino on tiedon käsittelemisessä ja varastoimisessa (esimerkiksi reseptivihko, muistilista, kuvagalleria) saattavat sopia paremmin Tietokantasovellus-kurssille.
+* **HUOMIO!** Kannattaa yrittää välttää aiheita, joissa pääpaino on tiedon säilömisessä tai käyttöliittymässä. Paljon tietoa säilövät sovellukset ovat vaikeita testata tämän kurssin esitietovaatimusten puitteissa, ja ne sopivat yleensä paremmin Tietokantasovellus-kurssille. Käyttöliittymäkeskeisissä aiheissa (esim. tekstieditori) voi olla vaikea keksiä sovelluslogiikkaa, joka on enemmän tämän kurssin painopiste (myös siksi koska käyttöliittymää ei tällä kurssilla testata ja testaus on kurssin keskeinen aihe - jos ei ole sovelluslogiikkaa, on vaikea myös kirjoittaa sille testejä)
 
 ### Esimerkkejä aiheista
 
@@ -33,7 +33,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Aritmetiikan harjoittelua
   * Tehtävägeneraattori, joka antaa käyttäjälle tehtävän sekä mallivastauksen (esim. matematiikkaa, fysiikkaa, kemiaa, ...)
   * Opintojen seurantajärjestelmä
-  * Tekstieditori ("Notepad-klooni") 
   * IRC- tai Slack-botti
   * Code Snippet Manageri
   * Laskin, funktiolaskin, graafinen laskin
