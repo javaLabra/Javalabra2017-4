@@ -1,5 +1,7 @@
 # Loppupalautus
 
+* Generoi HTML javadoc [ohjeiden](JavaDoc.md#javadocin-generointi) mukaan.
+
 ### Tarkista ohjelmasi valmius
 * Ohjelma toimii ja on valmis
 * JUnit-testejä mahdollisimman kattavasti
