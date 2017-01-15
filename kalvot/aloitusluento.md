@@ -8,6 +8,7 @@
     - Saska Dönges -- **saskeli** -- etunimi@cs.helsinki.fi
     - Valtteri Lakaniemi -- **TheDuck** -- etunimi.sukunimi@helsinki.fi
     - Heikki Ahonen -- **HeikkiHei** -- etunimi.sukunimi@helsinki.fi
+    - Atte Lassila -- **serdion** -- etunimi.sukunimu@cs.helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#javalabra** @ IRCnet
