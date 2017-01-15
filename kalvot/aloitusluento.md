@@ -1,5 +1,5 @@
 % Aineopintojen harjoitustyö: Ohjelmointi (Javalabra)
-% Saska Dönges, Valtteri Lakaniemi, Heikki Ahonen
+% Saska Dönges, Valtteri Lakaniemi, Heikki Ahonen, Atte Lassila
 % 17.1.2017
 
 # Ohjaajat
@@ -7,13 +7,12 @@
 - Ohjaajat
     - Saska Dönges -- **saskeli** -- etunimi@cs.helsinki.fi
     - Valtteri Lakaniemi -- **TheDuck** -- etunimi.sukunimi@helsinki.fi
-    - Heikki Ahonen -- **HeikkiHei** -- etunimi.sukunimi@helsinki.fi
+    - Heikki Ahonen -- **HeikkiHei** -- etunimi.sukunimi@cs.helsinki.fi
     - Atte Lassila -- **serdion** -- etunimi.sukunimu@cs.helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#javalabra** @ IRCnet
-- Kurssisivu https://github.com/javaLabra/Joululabra-2016
-
+- Kurssisivu https://github.com/javaLabra/Javalabra2017-3
 # Mistä kyse?
 
 - Kurssilla...
