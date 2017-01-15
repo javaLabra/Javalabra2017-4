@@ -16,6 +16,7 @@
 * Saska Dönges (saskeli) etunimi@cs.helsinki.fi
 * Valtteri Lakaniemi (TheDuck) vlakanie@cs.helsinki.fi
 * Heikki Ahonen (HeikkiHei) etunimi.sukunimi@cs.helsinki.fi
+* Atte Lassila (serdion) etunimi.sukunimi@cs.helsinki.fi
 
 **Kurssin IRC-kanava**:
 \#javalabra @ IRCnet
