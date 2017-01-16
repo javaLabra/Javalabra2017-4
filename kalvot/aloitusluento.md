@@ -13,6 +13,7 @@
 
 - IRC-kanava **#javalabra** @ IRCnet
 - Kurssisivu https://github.com/javaLabra/Javalabra2017-3
+
 # Mistä kyse?
 
 - Kurssilla...
@@ -59,7 +60,7 @@
 - Valitse kuitenkin aihe, jossa tarpeeksi koodattavaa
     - Aihetta voi tarvittaessa laajentaa lisäominaisuuksilla -- esimerkiksi tiedostoon tallennetulla highscore-listalla
     - Ohjaajilta voi pyytää laajennusideoita
-    - Tiedon hallintaan keskittyvät aiheet sopivat paremmin tietokantasovellus-kurssille
+- Huomaa, että tiedon tallentamiseen keskittyvät aiheet sopivat paremmin tietokantasovellus-kurssille
 
 # Testaus, Maven ja PIT
 
@@ -70,7 +71,8 @@
 
 # Checkstyle
 
-- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista tätä varten kurssilla käytetään kursseilla *Ohjelmoinnin perusteet* ja *Ohjelmoinnin Jatkokurssi* käytössä olevaa Checkstyleä.
+- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista 
+- Tämän takaamiseksi kurssilla käytetään *Ohjelmoinnin perusteet* ja *Ohjelmoinnin jatkokurssi* -kursseilla käytössä olevaa Checkstyleä.
 
 # Kurssin kulku
 
@@ -78,7 +80,7 @@
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
     - Ensimmäinen deadline **tämän viikon perjantaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
-        - Ei sähköpostipalautuksia
+        - Ei sähköpostipalautuksia!!
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
     - **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
