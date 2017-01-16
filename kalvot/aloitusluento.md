@@ -46,7 +46,7 @@
 
 - Esimerkkiaiheita:
     - Pacman, laivanupotus, Tetris, Pong, miinaharava, muistipeli
-    - Yksinkertainen tekstieditori, laskin
+    - IRC- tai Slack-botti, laskin
     - Fysiikkasimulaattori
     - Lisää esimerkkiaiheita kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
@@ -59,6 +59,7 @@
 - Valitse kuitenkin aihe, jossa tarpeeksi koodattavaa
     - Aihetta voi tarvittaessa laajentaa lisäominaisuuksilla -- esimerkiksi tiedostoon tallennetulla highscore-listalla
     - Ohjaajilta voi pyytää laajennusideoita
+    - Tiedon hallintaan keskittyvät aiheet sopivat paremmin tietokantasovellus-kurssille
 
 # Testaus, Maven ja PIT
 
@@ -73,9 +74,9 @@
 
 # Kurssin kulku
 
-- **Deadlinet** aikataulun mukaan aina kello 23:59
+- **Deadlinet** aikataulun mukaan aina perjantaisin kello 23:59
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon keskiviikkona!**
+    - Ensimmäinen deadline **tämän viikon perjantaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -85,11 +86,11 @@
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - Pajaa tarjolla, aikataulu kurssisivulla
-    - Luokassa **BK107** (kellarikerroksen pajaluokka)
+    - Pajaa tarjolla 4 kertaa viikossa, aikataulu kurssisivulla
+    - Luokassa **BK107** (kellarikerroksen pajaluokka) jollei toisin mainita
     - Täysin vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
-    - IRC ei ole virallinen tietolähde, vaikka onkin kätevä
+    - Ohjausta tarjolla myös IRC:ssä kanavalla #javalabra
 
 # Kurssin kulku
 
