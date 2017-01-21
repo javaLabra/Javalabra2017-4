@@ -28,7 +28,7 @@
 * Lähtökohdaksi voi ottaa ohjelmakoodinsa
 
 ### CheckStyle 
-* Generoi uusi CheckStyle-raportti
+* Generoi uusi CheckStyle-raportti ja lisää se dokumentaatiohakemistoosi
 * Korjaa kaikki esiintyvät CheckStyle-virheet (tästä eteenpäin oletetaan, ettei raportissa olisi enää virheitä)
 * Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita](Checkstyle.md#deadline-3-luokkien-jättäminen-checkstylen-ulkopuolelle) jättääksesi UI-luokat checkstylen ulkopuolelle
 
