@@ -35,7 +35,7 @@
 
 #### README.md
 
-* Sijaitsee projektin juuressa
+* Sijaitsee repositorion juuressa
 * Lisää tiedostoon lyhyt tiivistelmä aihekuvausestasi
 * Tee _Dokumentaatio_ -alaotsikko ja linkkaa sen alla projektisi aiheen kuvaus ja määritelmä sekä tuntikirjanpitosi
 * Voit kirjoittaa linkin markdownilla esimerkiksi näin: ```[aiheen kuvaus](dokumentaatio/aiheenKuvausJaRakenne.md)```
