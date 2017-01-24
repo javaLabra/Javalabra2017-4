@@ -1,7 +1,7 @@
 # Loppupalautus
 
 * Generoi HTML javadoc [ohjeiden](JavaDoc.md#javadocin-generointi) mukaan.
-* **Luo projektista [GitHub-release](https://github.com/mluukkai/OTM2016/wiki/Viikon-5-paikanpaalla-tehtavat#github-release), joka sisältää mavenin generoiman jar-tiedoston.**
+* **Luo projektista [GitHub-release](https://github.com/mluukkai/OTM2016/wiki/Viikon-5-paikanpaalla-tehtavat#github-release), ja liitä siihen mukaan target-hakemistosta löytyvä jar-tiedosto**
 
 ### Tarkista ohjelmasi valmius
 * Ohjelma toimii ja on valmis
