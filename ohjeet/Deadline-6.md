@@ -60,7 +60,7 @@
 * Valitse Netbeansista "Clean & Build". Komentoriviltä paketin saa luotua komennolla `mvn package`. Jar-tiedosto luodaan projektikansiosi `target`-kansion sisään.
 * Kokeile .jar -tiedoston toimivuus. Komentoriviltä jar-tiedosto voidaan ajaa komennolla `java -jar paketti.jar`.
    * Jos ohjelma ei toimi, tarkista erityisesti ohjelmasi käyttämät tiedostopolut - ne ovat suhteellisia .jar-tiedoston sijaintiin
-     * Javan File-toiminnot on tarkoitettu vain ulkoisten tiedostojen avaamiseen (esim. kuvankäsittelyohjelmassa jonkun kuvan avaamiseen). Jos projektisi sisältää jotain tiedostoja, jotka haluat pakata sen mukaan, [lue tämä](tiedostot-jarissa.md).
+     * **Javan File-toiminnot on tarkoitettu vain ulkoisten tiedostojen avaamiseen (esim. kuvankäsittelyohjelmassa jonkun kuvan avaamiseen). Jos projektisi sisältää jotain tiedostoja, jotka haluat pakata sen mukaan, [lue tämä](tiedostot-jarissa.md).**
 * Kokeile ajaa ohjelmaasi myös jollain muulla kuin omalla koneellasi. Esimerkiksi natiivikirjastojen kanssa paketointi saattaa vaatia ylimääräistä säätöä - näissä tapauksissa esimerkiksi kirjaston dokumentaatio saattaa kertoa sopivimman paketointitavan.
 
 ### Generoi Checkstyle-raportti uudestaan
