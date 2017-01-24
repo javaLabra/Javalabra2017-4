@@ -69,7 +69,6 @@ Kansiorakenne näyttää sen, miltä projektikansion pitäisi näyttää kurssin
 Kansiorakenne:
 * Harjoitustyösi juurikansio (Repositoriokansio)
   * README.md
-  * Ohjelma.jar (Vaaditaan vasta palautuksessa)
   * ohjelmasinimitähän/ (Netbeansin projektihakemisto)
   * javadoc/ (Generoitu dokumentaatio, vaaditaan vasta loppupalautuksessa)
   * dokumentaatio/
