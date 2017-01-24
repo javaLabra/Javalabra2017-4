@@ -61,7 +61,6 @@
 * Kokeile .jar -tiedoston toimivuus. Komentoriviltä jar-tiedosto voidaan ajaa komennolla `java -jar paketti.jar`.
    * Jos ohjelma ei toimi, tarkista erityisesti ohjelmasi käyttämät tiedostopolut - ne ovat suhteellisia .jar-tiedoston sijaintiin
 * Kokeile ajaa ohjelmaasi myös jollain muulla kuin omalla koneellasi. Esimerkiksi natiivikirjastojen kanssa paketointi saattaa vaatia ylimääräistä säätöä - näissä tapauksissa esimerkiksi kirjaston dokumentaatio saattaa kertoa sopivimman paketointitavan.
-* **Laita generoitu .jar repositorion juureen (sinne missä on readme!) ja varmista että se menee myös GitHubiin.**
 
 ### Generoi Checkstyle-raportti uudestaan
 * Generoi uusi Checkstyle raportti
