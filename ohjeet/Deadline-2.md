@@ -31,7 +31,7 @@
 * Generoi Checkstyle-raportti
 * Vilkaise raportti läpi ja korjaa kaikki esiintyvät virheet.
 * Whitespace-virheiden kanssa auttaa NetBeansin macro Alt-Shift-F, tai vastaava hiiren oikeaklikkaus -> Format, joka korjaa useimmat yleiset whitespace-virheet.
-* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio **target/site/** kokonaisuudessaan dokumentaation alle: **dokumentaatio/checkstyle/**.
+* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansion **target/site/** sisältö kokonaisuudessaan dokumentaatiohakemistoon omaan kansioonsa (**dokumentaatio/checkstyle/**).
 
 #### README.md
 
