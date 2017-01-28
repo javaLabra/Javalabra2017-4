@@ -20,7 +20,7 @@
 
 ### Generoi PIT-raportti uudestaan
 * Generoi uudestaan PIT-raportti
-* Lisää uusi generoitu raportti dokumentaatioon
+* Kopioi uusi generoitu raportti kansiosta **target/pit-reports/\<aikaleima\>/** dokumentaatioon
 
 ### Luokkakaavio
 * Tarkenna ohjelman luokkakaaviota tai piirrä uusi kuvaamaan nykyistä rakennetta
@@ -28,7 +28,7 @@
 * Lähtökohdaksi voi ottaa ohjelmakoodinsa
 
 ### CheckStyle 
-* Generoi uusi CheckStyle-raportti ja lisää se dokumentaatiohakemistoosi
+* Generoi uusi CheckStyle-raportti ja kopioi se kansiosta **target/site/** dokumentaatiohakemistosi alle
 * Korjaa kaikki esiintyvät CheckStyle-virheet (tästä eteenpäin oletetaan, ettei raportissa olisi enää virheitä)
 * Käyttöliittymä-luokkien kuten Swing-komponenttien testaus checkstylellä ei ole tarpeen, seuraa [näitä ohjeita](Checkstyle.md#deadline-3-luokkien-jättäminen-checkstylen-ulkopuolelle) jättääksesi UI-luokat checkstylen ulkopuolelle
 
