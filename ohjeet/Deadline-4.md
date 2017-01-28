@@ -24,12 +24,12 @@
 
 ### Generoi Checkstyle-raportti
 * Luo Checkstyle raportti [ohjeiden mukaan](Checkstyle.md)
-* Lisää generoitu raportti dokumentaatiokansioon
+* Kopioi generoitu raportti kansiosta **target/site** dokumentaatiokansioon
 * Päivitä README.md-linkki
 
 ### Generoi PIT-raportti uudestaan
 * Generoi uudestaan PIT-raportti
-* Lisää uusi generoitu raportti dokumentaatioon
+* Kopioi generoitu raportti kansiosta **target/pit-reports/\<aikaleima\>/ dokumentaatioon alle
 * Päivitä README.md-linkki
 
 ### Muu dokumentointi
