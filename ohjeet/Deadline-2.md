@@ -24,14 +24,14 @@
 
 ### Generoi PIT-raportti
   * Katso täältä [ohjeet](Maven-ja-PIT.md#raportit) raportin generointiin
-  * Laita generoitu raportti dokumentaatiokansion sisälle pit-kansioon.
+  * Kopioi generoitu raportti kansiosta **target/pit-reports/\<aikaleima\>/** kansioon **dokumentaatio/pit/**.
 
 ### Checkstyle
 * Generoidaan tällä viikolla myös [Checkstyle-raportti](Checkstyle.md)
 * Generoi Checkstyle-raportti
 * Vilkaise raportti läpi ja korjaa kaikki esiintyvät virheet.
 * Whitespace-virheiden kanssa auttaa NetBeansin macro Alt-Shift-F, tai vastaava hiiren oikeaklikkaus -> Format, joka korjaa useimmat yleiset whitespace-virheet.
-* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio kokonaisuudessaan dokumentaation alle.
+* Viikon lopuksi generoi uusi Checkstyle-raportti ja kopioi raportin kansio **target/site/** kokonaisuudessaan dokumentaation alle: **dokumentaatio/checkstyle/**.
 
 #### README.md
 
