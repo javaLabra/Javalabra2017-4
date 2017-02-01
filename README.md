@@ -27,8 +27,6 @@
 
 **01.2.2017** **Päivän paja peruttu sairastumisen johdosta**
 
-**20.1.2017** Perjantain paja-ajat vaihdettu keskiviikolle
-
 **10.1.2017** Kurssisivua päivitetty, nyt pitäisi deadlinejen aikataulut olla oikein.
 
 # Aikataulu
