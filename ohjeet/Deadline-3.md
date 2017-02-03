@@ -36,4 +36,4 @@
 * Linkataan tällä viikolla myös pit- ja CheckStyle-raportit README.md:stä. Tähän käytetään [htmlpreviewiä](https://htmlpreview.github.io/)
 * Htmlpreviewiä käyttäen, linkkaa README.md:hen pit-raporttisi index.html ja CheckStyle-raporttisi checkstyle.html. 
 * Linkki pit-raporttiisi olisi siis esimerkiksi tälläinen: ```[pit-raportti](https://htmlpreview.github.io/?https://github.com/kayttaja/javalabra/blob/master/documentation/pit-reports/index.html)```
-* Muista päivittää linkki viikottain ja linkata aina uusin versio raporteistasi
+* Muista päivittää linkit viikottain ja linkata uusin versio raporteistasi jos pidät tallessa useampaa raporttia.
