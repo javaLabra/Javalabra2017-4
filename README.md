@@ -21,6 +21,9 @@
 **Kurssin IRC-kanava**:
 \#javalabra @ IRCnet
 
+**Kurssin Telegram-ryhmä**:
+https://t.me/javalabra
+
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta pajassa, IRCissä tai lähetä sähköpostia.
 
 ## Uutisia
