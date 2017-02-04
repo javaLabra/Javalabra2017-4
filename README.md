@@ -28,9 +28,11 @@ https://t.me/javalabra
 
 ## Uutisia
 
-**01.2.2017** **Päivän paja peruttu sairastumisen johdosta**
+**03.02.2017** Kurssilla nyt oma [Telegram-ryhmä](https://t.me/javalabra)
 
-**10.1.2017** Kurssisivua päivitetty, nyt pitäisi deadlinejen aikataulut olla oikein.
+**01.02.2017** **Päivän paja peruttu sairastumisen johdosta**
+
+**10.01.2017** Kurssisivua päivitetty, nyt pitäisi deadlinejen aikataulut olla oikein.
 
 # Aikataulu
 
