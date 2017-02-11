@@ -29,7 +29,7 @@
 
 ### Generoi PIT-raportti uudestaan
 * Generoi uudestaan PIT-raportti
-* Kopioi generoitu raportti kansiosta **target/pit-reports/\<aikaleima\>/ dokumentaatioon alle
+* Kopioi generoitu raportti kansiosta **target/pit-reports/\<aikaleima\>/** dokumentaatioon alle
 * Päivitä README.md-linkki
 
 ### Muu dokumentointi
