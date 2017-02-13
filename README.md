@@ -49,7 +49,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **5** <br> 30.1.-<br>5.2.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | - | **Paja** B221<br>14-19 |**Paja** BK107<br>14-16<br> **DL 3** klo 23:59 | - | **Katselmointi 1 DL**<br> 23:59 |
 | **6** <br> 6.2.-<br>12.2.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | **Paja** B221<br> 10-12<br> | **Paja** B221<br>14-19 | **DL 4** klo 23:59 | - | - |
 | **7** <br> 13.2.-<br>19.2.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | - | **Paja** B221<br>14-19 | **Paja** B221<br> 14-16<br> **DL 5** klo 23:59 | - | **Katselmointi 2 DL**<br> 23:59 |
-| **8** <br> 20.2.-<br>26.2.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | - | **Paja** B221<br>14-19 | **Paja** B221<br> 14-16<br> **DL 6** klo 23:59 | - | - |
+| **8** <br> 20.2.-<br>26.2.  | **Paja peruttu sairausloman takia** ~~BK107<br>14-16~~ | **Paja** BK107<br>14-16 | - | **Paja** B221<br>14-19 | **Paja** B221<br> 14-16<br> **DL 6** klo 23:59 | - | - |
 | **9** <br> 27.2.-<br>5.3.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | **Paja** B221<br> 10-12<br> | **Paja** B221<br>14-19 | **Paja** B221<br> 14-16 | - | **Loppupalautus** klo 23:59 |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
