@@ -20,4 +20,4 @@ Ja lukea streamista BufferedImageksi:
 
 ``BufferedImage bf = ImageIO.read(is);``
 
-
+**Huom! Kirjoitettu klo 3:37 aamuyöstä nopeasti, valitukset toimimattomuudesta Valtteri Lakaniemielle (TheDuck @ IRC)**
