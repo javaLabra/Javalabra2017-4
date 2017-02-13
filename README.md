@@ -28,6 +28,8 @@ https://t.me/javalabra
 
 ## Uutisia
 
+**14.02.2017** **Päivän paja peruttu sairastumisen johdosta**
+
 **10.02.2017** Paja-ajat muuttuneet. Ke 10-12 --> Pe 14-16
 
 **03.02.2017** Kurssilla nyt oma [Telegram-ryhmä](https://t.me/javalabra)
