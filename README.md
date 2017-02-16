@@ -28,6 +28,8 @@ https://t.me/javalabra
 
 ## Uutisia
 
+**16.02.2017** **HUOM! Demotilaisuudet ovat ensi viikolla, ilmoittautuminen ja info pitäisi löytyä emailista! Jos maili on saanut saamatta, kyselkää perään!**
+
 **14.02.2017** **Päivän paja peruttu sairastumisen johdosta**
 
 **10.02.2017** Paja-ajat muuttuneet. Ke 10-12 --> Pe 14-16
@@ -56,6 +58,6 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* **HUOM 2!** **Demotilaisuus järjestetään viikolla 8. Aika ja paikka varmistuvat kurssin kuluessa**
+* **HUOM 2!** **Demotilaisuus järjestetään viikolla 8. Infoa pitäisi löytyä mailista!**
 
 * Lopullinen palautus - sunnuntaina 5.3.2017 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
