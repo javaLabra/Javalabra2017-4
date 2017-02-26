@@ -19,5 +19,3 @@ Jos tiedosto olisi ollut esimerkiksi kuva ``munkuva.jpg`` kansiossa ``<projektik
 Ja lukea streamista BufferedImageksi:
 
 ``BufferedImage bf = ImageIO.read(is);``
-
-**Huom! Kirjoitettu klo 3:37 aamuyöstä nopeasti, valitukset toimimattomuudesta Valtteri Lakaniemielle (TheDuck @ IRC)**
