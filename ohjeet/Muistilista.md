@@ -34,5 +34,5 @@ Ohessa tarkistuslista lopullisen työn tavoitteisiin. Vajavainen toteutus vähen
 
 ## Projekti
 
-* [ ] Projektisi noudattaa kansiorakennetta
-* [ ] Projektisi on lisätty GitHubin Releases välilehdelle tai pakattu (zip tai rar) kansio, jossa jar-tiedosto ja ohjelmasi tarvitsemat teksti-/kuva-/musiikkitiedostot
+* [ ] Projektisi noudattaa [kansiorakenne](Deadline-1.md#noudata-kansiorakennetta)
+* [ ] Projektisi on lisätty GitHubin Releases välilehdelle 
