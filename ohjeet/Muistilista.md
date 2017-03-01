@@ -34,5 +34,5 @@ Ohessa tarkistuslista lopullisen työn tavoitteisiin. Vajavainen toteutus vähen
 
 ## Projekti
 
-* [ ] Projektisi noudattaa [kansiorakenne](Deadline-1.md#noudata-kansiorakennetta)
+* [ ] Projektisi noudattaa [kansiorakennetta](Deadline-1.md#noudata-kansiorakennetta)
 * [ ] Projektisi on lisätty GitHubin Releases välilehdelle 
