@@ -1,6 +1,7 @@
 # Loppupalautus
 
 * Generoi HTML javadoc [ohjeiden](JavaDoc.md#javadocin-generointi) mukaan.
+ * JavaDoc tulee sijoittaa omaan kansioonsa repositorion juureen (ks. [kansiorakenne](Deadline-1.md#noudata-kansiorakennetta))
 * **Luo projektista [GitHub-release](https://github.com/mluukkai/OTM2016/wiki/Viikon-5-paikanpaalla-tehtavat#github-release), ja liitä siihen mukaan target-hakemistosta löytyvä jar-tiedosto**
 
 ### Tarkista ohjelmasi valmius
