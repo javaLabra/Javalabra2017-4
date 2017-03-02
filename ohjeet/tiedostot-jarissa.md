@@ -1,6 +1,8 @@
 # Tiedostot jar:n sisälle
 
-Tiedostojen tai kuvien lataamiseen ei voi käyttää File-luokkaa, koska kun projekti pakataan JAR-pakettiin, ei File-luokan avulla pysty lukemaan paketin sisältä. Yleensä projekteissa on myös ongelmana tiedostopolut: tiedostot ehkä löytyvät kotikoneella, mutta muiden koneella ei.
+**Huom! Jos kyseessä on tiedosto jota tulee pystyä muokkaamaan (esim. highscore-lista), ei sitä pakata jar:n sisään koska jar:n sisällä olevia tiedostoja ei voi muokata. Tälläisissä tapauksissa oikea tapa on käyttää File-luokkaa jne.**
+
+Staattisten tiedostojen tai kuvien, jotka haluat pakata projektiisi mukaan lataamiseen ei voi käyttää File-luokkaa, koska kun projekti pakataan JAR-pakettiin, ei File-luokan avulla pysty lukemaan paketin sisältä. Yleensä projekteissa on myös ongelmana tiedostopolut: tiedostot ehkä löytyvät kotikoneella, mutta muiden koneella ei.
 
 Kaikki resurssitiedostot tulisi sijoittaa ``<projektikansio>/src/main/resources/`` -kansioon. Resources-kansion sisällä saa toki myös tiedostoja jakaa kansioihin, mutta tämä tulee huomioida tiedostoa ladatessa.
 
