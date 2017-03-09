@@ -25,6 +25,7 @@
 * Testaa mahdollisimman montaa metodia
 * Testaa mahdollisimman monelta kantilta (rajatapaukset)
 * Sovellustason testauksen raportointi (VAPAAEHTOINEN, korvaa puutteita testauksessa enintään 2 pistettä)
+* Käyttöliittymää ei tarvitse testata
 
 ### Toteutus (25 pistettä)
 
