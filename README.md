@@ -32,6 +32,7 @@ Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää ai
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **B221** tai **BK107**, ellei toisin ilmoiteta.
 
 | Viikko | ma | ti | ke | to | pe | la | su |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | **11**<br>13.03.-<br>19.03. | Aloitustilaisuus<br>klo 10-11 **D112** | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 1<br>23:59 |  |  |  |
 | **12**<br>20.03.-<br>26.03. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 2<br>23:59 |  |  |  |
 | **13**<br>27.03.-<br>02.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 3<br>23:59 |  |  | **Katselmointi 1 DL**<br>23:59 |
