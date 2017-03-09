@@ -32,14 +32,14 @@ Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää ai
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **B221** tai **BK107**, ellei toisin ilmoiteta.
 
 | Viikko | ma | ti | ke | to | pe | la | su |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **3** <br> 16.1.-<br>22.1. | - | Aloitustilaisuus<br>klo 16-18 **CK112** | - | **Paja** BK107<br>14-16<br>**Paja** B221<br>16-19 | **DL 1** klo 23:59 | - | - |
-| **4** <br> 23.1.-<br>29.1. | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | **Paja** B221<br> 10-12<br> | **Paja** BK107<br>14-16<br>**Paja** B221<br>16-19 | **DL 2** klo 23:59 | - | - |
-| **5** <br> 30.1.-<br>5.2.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | - | **Paja** B221<br>14-19 |**Paja** BK107<br>14-16<br> **DL 3** klo 23:59 | - | **Katselmointi 1 DL**<br> 23:59 |
-| **6** <br> 6.2.-<br>12.2.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | **Paja** B221<br> 10-12<br> | **Paja** B221<br>14-19 | **DL 4** klo 23:59 | - | - |
-| **7** <br> 13.2.-<br>19.2.  | **Paja** BK107<br>14-16 | **Paja peruttu sairausloman takia** ~~BK107<br>14-16~~ | - | **Paja** B221<br>14-19 | **Paja** BK107<br> 14-16<br> **DL 5** klo 23:59 | - | **Katselmointi 2 DL**<br> 23:59 |
-| **8** <br> 20.2.-<br>26.2.  | **Paja** BK107<br>14-16 |**Paja** BK107<br>14-16   | - | **Paja** B221<br>14-19 | **Paja** BK107<br> 14-16<br> **DL 6** klo 23:59 | - | - |
-| **9** <br> 27.2.-<br>5.3.  | **Paja** BK107<br>14-16 | **Paja** BK107<br>14-16 | - | **Paja** B221<br>14-19<br>**Korvaava demotilaisuus** 16-18 C220 | **Paja** BK107<br> 14-16 | - | **Loppupalautus** klo 23:59 |
+| **11**<br>13.03.-<br>19.03. | Aloitustilaisuus<br>klo 10-11 **D112** | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 1<br>23:59 |  |  |  |
+| **12**<br>20.03.-<br>26.03. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 2<br>23:59 |  |  |  |
+| **13**<br>27.03.-<br>02.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 3<br>23:59 |  |  | **Katselmointi 1 DL**<br>23:59 |
+| **14**<br>03.04.-<br>09.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 4<br>23:59 |  |  |  |
+| **15**<br>10.04.-<br>16.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | PÄÄSIÄISTAUKO | PÄÄSIÄISTAUKO | PÄÄSIÄISTAUKO | PÄÄSIÄISTAUKO |
+| **15**<br>17.04.-<br>23.04. | PÄÄSIÄISTAUKO | PÄÄSIÄISTAUKO | PÄÄSIÄISTAUKO | DL 5<br>23:59 |  |  | **Katselmointi 2 DL**<br>23:59 |
+| **17**<br>24.04.-<br>30.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | DL 6<br>23:59 |  |  |  |
+| **18**<br>01.05.-<br>07.05. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | Loppupalautus<br>23:59 |  |  |  |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
