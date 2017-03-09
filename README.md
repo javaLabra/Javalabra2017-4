@@ -13,32 +13,17 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Valtteri Lakaniemi (TheDuck) vlakanie@cs.helsinki.fi
 * Heikki Ahonen (HeikkiHei) etunimi.sukunimi@cs.helsinki.fi
-* Atte Lassila (serdion) etunimi.sukunimi@cs.helsinki.fi
-* Saska Dönges (saskeli) etunimi@cs.helsinki.fi
+* Miika Säynevirta
 
 **Kurssin IRC-kanava**:
 \#javalabra @ IRCnet
-
-**Kurssin Telegram-ryhmä**:
-https://t.me/javalabra
 
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta pajassa, IRCissä tai lähetä sähköpostia.
 
 ## Uutisia
 
-**16.02.2017** **HUOM! Demotilaisuudet ovat ensi viikolla, ilmoittautuminen ja info pitäisi löytyä emailista! Jos maili on saanut saamatta, kyselkää perään!**
-
-**14.02.2017** **Päivän paja peruttu sairastumisen johdosta**
-
-**10.02.2017** Paja-ajat muuttuneet. Ke 10-12 --> Pe 14-16
-
-**03.02.2017** Kurssilla nyt oma [Telegram-ryhmä](https://t.me/javalabra)
-
-**01.02.2017** **Päivän paja peruttu sairastumisen johdosta**
-
-**10.01.2017** Kurssisivua päivitetty, nyt pitäisi deadlinejen aikataulut olla oikein.
+Tähän tulee kurssin aikana tapahtuvat muutokset ja poikkeukset
 
 # Aikataulu
 
@@ -58,6 +43,6 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* **HUOM 2!** **Demotilaisuus järjestetään viikolla 8. Infoa pitäisi löytyä mailista!**
+* **HUOM 2!** **Demotilaisuus järjestetään viikolla XX. **
 
-* Lopullinen palautus - sunnuntaina 5.3.2017 klo 23.59. Tällöin jokaisen osallistujan projekti ladataan GitHubista ja arvostellaan sellaisenaan
+* Lopullinen palautus TULEE TÄHÄN
