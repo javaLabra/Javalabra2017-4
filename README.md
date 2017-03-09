@@ -44,6 +44,6 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
 
-* **HUOM 2!** **Demotilaisuus järjestetään viikolla XX. **
+* **HUOM 2!** **Demotilaisuus järjestetään viikolla 17. **
 
-* Lopullinen palautus TULEE TÄHÄN
+* Lopullinen palautus 4.5.2017 klo 23:59
