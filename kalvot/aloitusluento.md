@@ -1,18 +1,16 @@
 % Aineopintojen harjoitustyö: Ohjelmointi (Javalabra)
-% Saska Dönges, Valtteri Lakaniemi, Heikki Ahonen, Atte Lassila
-% 17.1.2017
+% Heikki Ahonen, Miika Säynevirta
+% 13.3.2017
 
 # Ohjaajat
 
 - Ohjaajat
-    - Saska Dönges -- **saskeli** -- etunimi@cs.helsinki.fi
-    - Valtteri Lakaniemi -- **TheDuck** -- etunimi.sukunimi@helsinki.fi
     - Heikki Ahonen -- **HeikkiHei** -- etunimi.sukunimi@cs.helsinki.fi
-    - Atte Lassila -- **serdion** -- etunimi.sukunimu@cs.helsinki.fi
+    - Miika Säynevirta -- **Mayse** -- etunimi.sukunimi@cs.helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 
 - IRC-kanava **#javalabra** @ IRCnet
-- Kurssisivu https://github.com/javaLabra/Javalabra2017-3
+- Kurssisivu https://github.com/javaLabra/Javalabra2017-4
 
 # Mistä kyse?
 
@@ -76,9 +74,9 @@
 
 # Kurssin kulku
 
-- **Deadlinet** aikataulun mukaan aina perjantaisin kello 23:59
+- **Deadlinet** aikataulun mukaan aina torstaisin kello 23:59
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon perjantaina!**
+    - Ensimmäinen deadline **tämän viikon torstaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia!!
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -88,8 +86,8 @@
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - Pajaa tarjolla 4 kertaa viikossa, aikataulu kurssisivulla
-    - Luokassa **BK107** (kellarikerroksen pajaluokka) jollei toisin mainita
+    - Pajaa tarjolla 2 kertaa viikossa, aikataulu kurssisivulla
+    - Luokassa **B221** (toisen kerroksen pajaluokka) jollei toisin mainita
     - Täysin vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
     - Ohjausta tarjolla myös IRC:ssä kanavalla #javalabra
@@ -122,7 +120,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2017-3
+- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
+- Kaikki tarvittava löytyy kurssisivulta: https://github.com/javaLabra/Javalabra2017-4
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
