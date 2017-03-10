@@ -14,7 +14,7 @@
 
 **Ohjaajat:**
 * Heikki Ahonen (HeikkiHei) etunimi.sukunimi@cs.helsinki.fi
-* Miika Säynevirta
+* Miika Säynevirta (Mayse) etunimi.sukunimi@cs.helsinki.fi
 
 **Kurssin IRC-kanava**:
 \#javalabra @ IRCnet
