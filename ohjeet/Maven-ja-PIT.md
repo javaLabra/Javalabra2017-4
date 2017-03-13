@@ -202,3 +202,5 @@ No mutations found. This probably means there is an issue with either the suppli
 * Jos Pit-raportti generoidaan oikein, mutta se näyttää 0% kaikessa vaikka toimivia testejä on, tarkista että testitiedostojen alussa on testitiedoston pakettia vastaava pakettimäärittely, esim: `package superohjelma.logiikka` 
 
 * Myös jos pom.xml:n groupId:ssa on sana 'java', niin Pit-raportti voi generoitua näyttämään 0% rivi- ja mutaatiokattavuudeksi. Esimerkiksi pakettirakenne 'javalabra.korttipeli' EI siis toimi ja paketin 'javalabra' nimi täytyy muuttaa ja korjata groupId pom.xml -tiedossa.
+
+* Pit antaa myös (epäinformatiivisen) virheilmoituksen, jos projektissa ei löydy main metodia
