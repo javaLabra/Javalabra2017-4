@@ -24,7 +24,8 @@
 ## Uutisia
 
 Tähän tulee kurssin aikana tapahtuvat muutokset ja poikkeukset <br>
-**Paja 2.5. klo 14-16 luokassa BK107**
+**Paja 2.5. klo 14-16 luokassa BK107** <br>
+**Demotilaisuudet 25.4. klo 14-16 B119 ja 27.4. klo 14-16 C122**
 
 # Aikataulu
 
