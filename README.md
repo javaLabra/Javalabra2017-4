@@ -23,7 +23,7 @@
 
 ## Uutisia
 
-Tähän tulee kurssin aikana tapahtuvat muutokset ja poikkeukset
+Tähän tulee kurssin aikana tapahtuvat muutokset ja poikkeukset <br>
 **Paja 2.5. klo 14-16 luokassa BK107**
 
 # Aikataulu
