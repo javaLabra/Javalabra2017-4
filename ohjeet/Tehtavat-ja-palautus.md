@@ -1,4 +1,4 @@
-﻿#Tehtävät ja palautus
+# Tehtävät ja palautus
 
 Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2017-4).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin GitHub-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
@@ -43,7 +43,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Demot
 
 * **Demotilaisuus on kaikille pakollinen**
-* Demojen ajankohdat päätetään myöhemmin
+* Demojen ajankohdat löytyy kalenterista etusivulta.
 * Omaa työtä esitetään 3-7 min.
 * Ohjelman ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
