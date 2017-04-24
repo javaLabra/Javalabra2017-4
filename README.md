@@ -41,7 +41,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **14**<br>03.04.-<br>09.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **DL 4**<br>23:59 |  |  |  |
 | **15**<br>10.04.-<br>16.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | PÄÄSIÄISTAUKO ALKAA | |  |  |
 | **15**<br>17.04.-<br>23.04. |  | | PÄÄSIÄISTAUKO PÄÄTTYY | **DL 5**<br>23:59 |  |  | **Katselmointi 2 DL**<br>23:59 |
-| **17**<br>24.04.-<br>30.04. |  | **Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **DL 6**<br>23:59 |  |  |  |
+| **17**<br>24.04.-<br>30.04. |  | **Demo**<br> B119<br>14-16<br>**Paja** B221<br>14-16 | **Paja** B221<br>16-19 | **Demo**<br> C122<br>14-16<br>**DL 6**<br>23:59 |  |  |  |
 | **18**<br>01.05.-<br>07.05. |  | **Paja** BK107<br>14-16 | **Paja** B221<br>16-19 | **Loppupalautus**<br>23:59 |  |  |  |
 
 * **HUOM!** **Paja-ajat saattavat muuttua kurssin aikana.**
